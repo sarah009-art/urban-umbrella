@@ -1,0 +1,19 @@
+/*back to top */
+.btn1{
+    position: fixed;
+    bottom: 2rem;
+    right: 2rem;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #121d92;
+    border-radius: 0.5rem;
+    padding: 0.5rem;
+    text-decoration: none;
+    transition: 0.2s ease-out;
+  }
+  span{
+    color: #fff;
+    font-size: 2rem;
+    transition: 0.2s ease-out;
+  }
